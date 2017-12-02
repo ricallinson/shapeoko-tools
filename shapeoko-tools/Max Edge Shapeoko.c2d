@@ -1,0 +1,90 @@
+{
+    "CIRCLE_OBJECTS": [
+    ],
+    "CURVE_OBJECTS": [
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": false,
+        "HEIGHT": 406.4,
+        "MACHINE": "Shapeoko 3",
+        "MATERIAL": "MDF",
+        "RETRACT": 10,
+        "THICKNESS": 12.7,
+        "WIDTH": 406.4,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 5,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+        {
+            "corner_type": 0,
+            "group_id": [
+            ],
+            "height": 355.59999999999997,
+            "id": "{7485e40e-2b19-4de1-9a92-287ad63c837b}",
+            "position": [
+                203.2,
+                184.14999999999995
+            ],
+            "radius": 15.011399999999998,
+            "rotation": 0,
+            "width": 393.7
+        }
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_OBJECTS": [
+        {
+            "automatic_parameters": true,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{7485e40e-2b19-4de1-9a92-287ad63c837b}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -1.778,
+            "name": "Max Edge",
+            "ofset_dir": 0,
+            "speeds": {
+                "feedrate": 345.44,
+                "plungerate": 86.36,
+                "rpm": 4687
+            },
+            "start_depth": 0,
+            "stepdown": 0.254,
+            "stepover": 0.7111999999999999,
+            "tab_height": 5,
+            "tab_width": 8,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 1.5875,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.524999999999999,
+                "name": "",
+                "number": 112,
+                "overall_length": 30.479999999999997,
+                "uuid": "{00000000-0000-0000-0000-000000000112}"
+            },
+            "uuid": "{0f12b366-80e3-48ff-ad36-5415eb50dbd1}"
+        }
+    ]
+}

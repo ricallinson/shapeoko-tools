@@ -1,0 +1,270 @@
+{
+    "CIRCLE_OBJECTS": [
+    ],
+    "CURVE_OBJECTS": [
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": false,
+        "HEIGHT": 406.4,
+        "MACHINE": "Shapeoko 3",
+        "MATERIAL": "MDF",
+        "RETRACT": 10,
+        "THICKNESS": 12.7,
+        "WIDTH": 406.4,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 5,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+        {
+            "corner_type": 0,
+            "group_id": [
+            ],
+            "height": 30.479999999999997,
+            "id": "{d9c64adb-331c-4140-a34b-9fe1e77e1fb7}",
+            "position": [
+                12.3,
+                50
+            ],
+            "radius": 25.4,
+            "rotation": 0,
+            "width": 25.4
+        },
+        {
+            "corner_type": 0,
+            "group_id": [
+            ],
+            "height": 30.479999999999997,
+            "id": "{d78e6580-df55-4860-99d9-bf80102e455c}",
+            "position": [
+                102.3,
+                50
+            ],
+            "radius": 25.4,
+            "rotation": 0,
+            "width": 25.4
+        },
+        {
+            "corner_type": 0,
+            "group_id": [
+            ],
+            "height": 30.479999999999997,
+            "id": "{1711183b-429b-4855-b392-45f7d024dbc0}",
+            "position": [
+                277.3,
+                50
+            ],
+            "radius": 25.4,
+            "rotation": 0,
+            "width": 25.4
+        },
+        {
+            "corner_type": 0,
+            "group_id": [
+            ],
+            "height": 30.479999999999997,
+            "id": "{50e1e73e-9a8a-4786-b345-7aeb05b6f895}",
+            "position": [
+                392.7,
+                50
+            ],
+            "radius": 25.4,
+            "rotation": 0,
+            "width": 25.4
+        },
+        {
+            "corner_type": 0,
+            "group_id": [
+            ],
+            "height": 177.79999999999998,
+            "id": "{ada3868a-a7bd-46bc-b1b3-8a552171c5cd}",
+            "position": [
+                101.76440000000002,
+                155
+            ],
+            "radius": 15.748,
+            "rotation": 0,
+            "width": 16.509999999999998
+        },
+        {
+            "corner_type": 0,
+            "group_id": [
+            ],
+            "height": 177.79999999999998,
+            "id": "{86f440a7-04bf-4894-bea7-5ed7f941d295}",
+            "position": [
+                11.746800000000029,
+                155
+            ],
+            "radius": 15.748,
+            "rotation": 0,
+            "width": 16.509999999999998
+        },
+        {
+            "corner_type": 0,
+            "group_id": [
+            ],
+            "height": 177.79999999999998,
+            "id": "{70054f46-aced-4d67-a631-f88f976dabf5}",
+            "position": [
+                276.745,
+                155
+            ],
+            "radius": 15.748,
+            "rotation": 0,
+            "width": 16.509999999999998
+        },
+        {
+            "corner_type": 0,
+            "group_id": [
+            ],
+            "height": 177.79999999999998,
+            "id": "{5a6f97d4-61b9-4c29-baf8-e1ebae655be7}",
+            "position": [
+                391.75620000000004,
+                155
+            ],
+            "radius": 15.748,
+            "rotation": 0,
+            "width": 16.509999999999998
+        }
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_OBJECTS": [
+        {
+            "automatic_parameters": true,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{50e1e73e-9a8a-4786-b345-7aeb05b6f895}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{1711183b-429b-4855-b392-45f7d024dbc0}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{d78e6580-df55-4860-99d9-bf80102e455c}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{d9c64adb-331c-4140-a34b-9fe1e77e1fb7}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -13.97,
+            "name": "Clamp Holes",
+            "ofset_dir": 2,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 317.5,
+                "rpm": 12500
+            },
+            "start_depth": 0,
+            "stepdown": 2.8144044321329638,
+            "stepover": 2.8575,
+            "tab_height": 5,
+            "tab_width": 8,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.35,
+                "display_mm": false,
+                "flutes": 3,
+                "length": 9.524999999999999,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{69d3b815-5872-4fe3-a3b4-1924d65c79ec}"
+        },
+        {
+            "automatic_parameters": true,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{5a6f97d4-61b9-4c29-baf8-e1ebae655be7}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{70054f46-aced-4d67-a631-f88f976dabf5}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{86f440a7-04bf-4894-bea7-5ed7f941d295}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ada3868a-a7bd-46bc-b1b3-8a552171c5cd}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -13.97,
+            "name": "Clamp Slots",
+            "ofset_dir": 2,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 317.5,
+                "rpm": 12500
+            },
+            "start_depth": 0,
+            "stepdown": 2.8144044321329638,
+            "stepover": 2.8575,
+            "tab_height": 5,
+            "tab_width": 8,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.35,
+                "display_mm": false,
+                "flutes": 3,
+                "length": 9.524999999999999,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{ead77775-2973-40ef-b5ed-8c69ddad8f51}"
+        }
+    ]
+}
